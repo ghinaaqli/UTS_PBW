@@ -1,0 +1,39 @@
+body {
+    font-family: "Poppins";
+    border: 1px solid #767676;
+    margin: 0;
+}
+
+header {
+    background-color: #5c5c5c;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.lamaran {
+    padding: 1%;
+    border: 1px solid #000;
+}
+
+.menu {
+    background-color: #b5afee;
+}
+
+.profil {
+    background-color: #b5afee;
+    text-align: center;
+}
+
+.foto {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.footer {
+    background-color: #b35353;
+    text-align: center;
+    padding: 1%;
+}
